@@ -38,5 +38,10 @@ Physics Major
 2004-2006
 
 ### Skills 
-+ #### Coding Languages/Libraries_: HTML5, CSS, JavaScript, Ruby, Python, Pandas
++ #### Coding Languages/Libraries
+- HTML5 
+- CSS 
+- JavaScript 
+- Ruby
+- Pandas
 
