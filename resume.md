@@ -38,7 +38,7 @@ Physics Major
 2004-2006
 
 ### Skills 
-- Coding Languages: HTML5, CSS, JavaScript, Ruby 
--Langugages: A2 Norwegian 
--Technologies: QuickBooks 
++_Coding Languages/Libraries_: HTML5, CSS, JavaScript, Ruby, Python, Pandas
++_Langugages_: A2 Norwegian 
++_Technologies_: QuickBooks 
 
