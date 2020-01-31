@@ -13,20 +13,16 @@ Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada
 - Managed Financial Filing Systems 
 - Reconciled Bank and Credit Card Statements  
 
-+ #### Office Manager & Full-Charge Bookkeeper // [Prints Unlimited Galleries], 2013-2014 
++ #### Office Manager & Full-Charge Bookkeeper // [Prints Unlimited Galleries], 2012-2015
 - Answered incoming calls and e-mails 
 - Cut overhead costs by 5%, which allowed the owner to give the framers a $2 an hour raise each 
 - Streamlined the Credit Card Reconciliation process, which increased overall productivity in the roll 
 - Performed all Accounts Receivable and Accounts Payable duties 
 
-+ #### Fine Furnishings Intern // [Leslie Hindman Auctioneers], 2012 
++ #### Fine Furnishings Intern // [Leslie Hindman Auctioneers], 2011
 - Provided support to the Appraisers and Auctioneers in the Fine Furnishings Department 
 - Entered data about various incoming auction items into the company's database 
 - Prepared the showroom for upcoming auctions
-
-+ #### Barista // [Gallery Cafe], 2011-2013
-- Prepared beverages and food items for customers in Chicago's Wicker Park neighborhood 
-- Worked here full-time while maintaining a part-time internship at a local auction house in 2012 
 
 + #### Store Bookkeeper // [Lowe's Home Improvement], 2008-2011 
 - Managed the company's safe, balanced registers, and prepared bank deposits 
