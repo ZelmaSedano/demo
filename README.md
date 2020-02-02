@@ -33,7 +33,7 @@ _Noresande Norskskole_
 A1 & A2 Norwegian Courses 
 
 _University of Mississippi_ 
-B.A. in Psychology 
+B.A. in Psychology, 
 Minor in History 
 Class of 2011 
 
