@@ -34,7 +34,7 @@ A1 & A2 Norwegian Courses
 
 _University of Mississippi_ 
 B.A. in Psychology, 
-Minor in History 
+Minor in History - 
 Class of 2011 
 
 _Mary Baldwin University_ 
