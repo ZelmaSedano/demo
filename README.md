@@ -30,7 +30,7 @@ Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada
 
 ### Education 
 _Noresande Norskskole_ 
-A1 & A2 Norwegian Courses 
+A1 & A2 Norwegian Courses, 
 2016-2017
 
 _University of Mississippi_ 
@@ -39,7 +39,7 @@ Minor in History -
 Class of 2011 
 
 _Mary Baldwin University_ 
-Physics Major 
+Physics Major, 
 2004-2006
 
 ### Skills 
