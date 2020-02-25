@@ -2,7 +2,7 @@
 +47 901.35.270 // zvsedano@gmail.com // Oslo, Norway // [GitHub] (https://github.com/ZelmaSedano) 
 
 ### Personal Statement 
-Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada Developer's Academy in Seattle.  She has previously worked a Full-Charge Bookkeeper, then used a cash windfall to start traveling in 2015.  Since then, she has taught herself HTML and CSS, and once she decided she was interested in attending a coding bootcamp, she taught herself algorithmic JavaScript and Ruby.  
+Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada Developer's Academy in Seattle.  She was working as a Full-Charge Bookkeeper when she received a cash windfall in 2015, and started traveling the globe.  Since then she has taught herself HTML, CSS, JavaScript, Ruby, Python, and Pandas.
 
 ### Work History 
 + #### Volunteer // [Dyrenes Hjelper], 2017-2020
@@ -42,5 +42,5 @@ Physics Major
 2004-2006
 
 ### Skills 
-+ __Coding Languages/Libraries__: HTML5, CSS, JavaScript, Ruby, GitHub 
++ __Coding Languages/Libraries__: HTML5, CSS, JavaScript, Ruby, Python, Pandas, GitHub 
 
