@@ -5,7 +5,7 @@
 Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada Developer's Academy in Seattle.  She was working as a Full-Charge Bookkeeper when she received a cash windfall in 2015, and started traveling the globe.  Since then she has taught herself HTML, CSS, JavaScript, Ruby, Python, and Pandas.
 
 ### Work History 
-+ #### Volunteer // [Dyrenes Hjelper], 2017-2020
++ #### Volunteer // [Dyrenes Hjelper], 2017-2019
 - Provided re-homing services to Akershus county's animals in need.  
 
 + #### Full-Charge Bookkeeper // [Neighborhood Properties], 2015
