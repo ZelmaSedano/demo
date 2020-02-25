@@ -19,7 +19,7 @@ Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada
 - Streamlined the Credit Card Reconciliation process, which increased overall productivity in the roll 
 - Performed all Accounts Receivable and Accounts Payable duties 
 
-+ #### Fine Furnishings Intern // [Leslie Hindman Auctioneers], 2011
++ #### Fine Furnishings Intern // [Leslie Hindman Auctioneers], 2012
 - Provided support to the Appraisers and Auctioneers in the Fine Furnishings Department 
 - Entered data about various incoming auction items into the company's database 
 - Prepared the showroom for upcoming auctions
