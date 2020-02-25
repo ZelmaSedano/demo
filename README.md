@@ -1,5 +1,5 @@
 # Zelma V. Sedano 
-+47 901.35.270 // zvsedano@gmail.com // Oslo, Norway // [GitHub] (https://github.com/ZelmaSedano) 
++47 92 11 93 87 // zvsedano@gmail.com // Oslo, Norway // [GitHub] (https://github.com/ZelmaSedano) 
 
 ### Personal Statement 
 Zelma is an aspiring Back-End Web Developer who has set her eye on attending Ada Developer's Academy in Seattle.  She was working as a Full-Charge Bookkeeper when she received a cash windfall in 2015, and started traveling the globe.  Since then she has taught herself HTML, CSS, JavaScript, Ruby, Python, and Pandas.
